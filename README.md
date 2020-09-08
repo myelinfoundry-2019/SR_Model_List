@@ -1,6 +1,8 @@
 # Video Super Resolution
 A collection of state-of-the-art video or single-image super-resolution architectures, reimplemented in tensorflow.
 
+<b> Forked from LoSealL/VideoSuperResolution</b>
+
 **Bugs need to be fixed with google drive api**
 
 
